@@ -2,7 +2,7 @@
 baseURL = "https://bitsofinfra.com/"
 languageCode = "en-us"
 title = "Bits of Infra"
-theme = "papermod"
+theme = "PaperMod"
 
 [params]
   author = "Bits of Infra Contributors"
